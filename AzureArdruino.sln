@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AzureArdruino", "AzureArdruino\AzureArdruino.vcxproj", "{2E05ABE0-A8D2-471D-8123-68BB27754BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E05ABE0-A8D2-471D-8123-68BB27754BB9}.Debug|ARM.ActiveCfg = Debug|ARM
+		{2E05ABE0-A8D2-471D-8123-68BB27754BB9}.Debug|ARM.Build.0 = Debug|ARM
+		{2E05ABE0-A8D2-471D-8123-68BB27754BB9}.Release|ARM.ActiveCfg = Release|ARM
+		{2E05ABE0-A8D2-471D-8123-68BB27754BB9}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C5DBD97-5C25-42A5-893B-751AA6550E3B}
+	EndGlobalSection
+EndGlobal
