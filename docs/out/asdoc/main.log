@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2019.2.28)  1 MAR 2019 13:41
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2019.2.28)  4 MAR 2019 14:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2049,7 +2049,66 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3] (asdoc/content.tex (asdoc/intro.tex)
+[3] (asdoc/content.tex (asdoc/intro.tex
+File: HWDiagram.JPG Graphic file (type QTm)
+ <use  "HWDiagram.JPG" >
+Overfull \hbox (56.43234pt too wide) in paragraph at lines 31--32
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 39--40
+[]\EU1/Verdana(0)/m/n/9 1 * ARM Cortex A7 core
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+[]\EU1/Verdana(0)/m/n/9 ARM Cortex M4 core
+ []
+
+
+Overfull \hbox (45.10184pt too wide) in paragraph at lines 34--72
+[][] 
+ []
+
+File: af_logo.png Graphic file (type QTm)
+<use  "af_logo.png" >
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 60.50491pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 8.39996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4]
+Overfull \vbox (28.92296pt too high) has occurred while \output is active []
+
+File: af_logo.png Graphic file (type QTm)
+
+<use  "af_logo.png" >
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 60.50491pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 8.39996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5]
+File: InterfaceHeaders.JPG Graphic file (type QTm)
+ <use  "InterfaceHeaders.JPG" >)
 File: af_logo.png Graphic file (type QTm)
  <use  "af_logo.png" >
 
@@ -2064,7 +2123,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[4] (asdoc/prerequisites.tex)
+[6] (asdoc/prerequisites.tex)
 File: af_logo.png Graphic file (type QTm)
  <use  "af_logo.png" >
 
@@ -2079,7 +2138,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5] (asdoc/install.tex
+[7] (asdoc/install.tex
 File: COMPorts.JPG Graphic file (type QTm)
  <use  "COMPorts.JPG" >
 File: SDK1.JPG Graphic file (type QTm)
@@ -2099,7 +2158,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6]
+[8]
 File: SDK2.JPG Graphic file (type QTm)
  <use  "SDK2.JPG" >
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -2129,7 +2188,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[7]
+[9]
 
 LaTeX Font Warning: Font shape `EU1/Verdana(0)/m/sc' undefined
 (Font)              using `EU1/Verdana(0)/m/n' instead on input line 84.
@@ -2178,7 +2237,9 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8])
+[10]
+File: PCtoRouter.JPG Graphic file (type QTm)
+ <use  "PCtoRouter.JPG" >
 File: af_logo.png Graphic file (type QTm)
  <use  "af_logo.png" >
 
@@ -2193,7 +2254,22 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9] (asdoc/simple_app.tex
+[11])
+File: af_logo.png Graphic file (type QTm)
+ <use  "af_logo.png" >
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 60.50491pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 8.39996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[12] (asdoc/simple_app.tex
 Overfull \hbox (121.86627pt too wide) in paragraph at lines 26--27
 [][][][] 
  []
@@ -2222,7 +2298,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10]
+[13]
 File: VSDebug.JPG Graphic file (type QTm)
  <use  "VSDebug.JPG" >
 Underfull \hbox (badness 10000) in paragraph at lines 64--65
@@ -2261,7 +2337,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11]
+[14]
 Overfull \hbox (82.4661pt too wide) in paragraph at lines 117--118
 [][] 
  []
@@ -2285,7 +2361,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12]
+[15]
 Overfull \hbox (121.86627pt too wide) in paragraph at lines 167--168
 [][] 
  []
@@ -2310,7 +2386,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13] (asdoc/azure_iot.tex
+[16] (asdoc/azure_iot.tex
 File: CreateIoTHub1.JPG Graphic file (type QTm)
  <use  "CreateIoTHub1.JPG" >
 File: af_logo.png Graphic file (type QTm)
@@ -2327,7 +2403,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14]
+[17]
 File: CreateIoTHub2.JPG Graphic file (type QTm)
  <use  "CreateIoTHub2.JPG" >
 File: CreateIoTHub3.JPG Graphic file (type QTm)
@@ -2347,7 +2423,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15]
+[18]
 File: DeviceProvisioningService.JPG Graphic file (type QTm)
  <use  "DeviceProvisioningService.JPG" >
 File: LinkIoT.JPG Graphic file (type QTm)
@@ -2367,7 +2443,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16]
+[19]
 File: DPSCert.JPG Graphic file (type QTm)
  <use  "DPSCert.JPG" >
 File: af_logo.png Graphic file (type QTm)
@@ -2384,7 +2460,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17]
+[20]
 File: DPSAddCert.JPG Graphic file (type QTm)
  <use  "DPSAddCert.JPG" >
 File: DSPCertUnVer.JPG Graphic file (type QTm)
@@ -2406,7 +2482,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18]
+[21]
 File: af_logo.png Graphic file (type QTm)
  <use  "af_logo.png" >
 
@@ -2421,7 +2497,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[19]
+[22]
 File: EnrollmentGroup.JPG Graphic file (type QTm)
  <use  "EnrollmentGroup.JPG" >
 File: af_logo.png Graphic file (type QTm)
@@ -2438,7 +2514,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20]
+[23]
 File: VSAddConnectService.jpg Graphic file (type QTm)
  <use  "VSAddConnectService.jpg" >
 File: AddConServiecPan.JPG Graphic file (type QTm)
@@ -2470,7 +2546,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[21]
+[24]
 File: ASIoTOutput.JPG Graphic file (type QTm)
  <use  "ASIoTOutput.JPG" >
 File: SelectIoTDevice.JPG Graphic file (type QTm)
@@ -2490,7 +2566,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[22]
+[25]
 File: MsgToDevice.JPG Graphic file (type QTm)
  <use  "MsgToDevice.JPG" >
 File: DirectMethod.JPG Graphic file (type QTm)
@@ -2510,7 +2586,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[23]
+[26]
 File: DeviceTwin.JPG Graphic file (type QTm)
  <use  "DeviceTwin.JPG" >)
 File: af_logo.png Graphic file (type QTm)
@@ -2527,7 +2603,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[24] (asdoc/azure_am2302.tex
+[27] (asdoc/azure_am2302.tex
 File: AStoAD.jpg Graphic file (type QTm)
  <use  "AStoAD.jpg" >
 File: ADtoAM2302.jpg Graphic file (type QTm)
@@ -2549,7 +2625,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[25]
+[28]
 File: DHTLibary.JPG Graphic file (type QTm)
  <use  "DHTLibary.JPG" >
 File: AdafruitUnifiedSensor.JPG Graphic file (type QTm)
@@ -2569,9 +2645,9 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[26]
+[29]
 File: UploadBTArduino.JPG Graphic file (type QTm)
- <use  "UploadBTArduino.JPG" >) (asdoc/future.tex)
+ <use  "UploadBTArduino.JPG" >)
 File: af_logo.png Graphic file (type QTm)
  <use  "af_logo.png" >
 
@@ -2586,11 +2662,104 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[27]) 
+[30] (asdoc/future.tex)
+File: af_logo.png Graphic file (type QTm)
+ <use  "af_logo.png" >
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 60.50491pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 8.39996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[31] (asdoc/references.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+[]|[][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][] [] [][][] [] [][][][
+][][] [] [][][][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]|[][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][] [] [][][] [] [][][][
+][][] [] [][][][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]|[][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][] [] [][][] [] [][][][
+][][] [] [][][][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]|[][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][] [] [][][] [] [][][][
+][][] [] [][][][][] [] [][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 12--12
+[]|\EU1/Verdana(0)/m/sc/9 Azure IoT with Azure
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+[]|[][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][] [] [][][] [] [][][][
+][][] [] [][][][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+[]|[][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][] [] [][][] [] [][][][
+][][] [] [][][][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\EU1/Verdana(0)/m/sc/9 Hardware Design and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+[]|[][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][] [] [][][] [] [][][][
+][][] [] [][][][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+[]|[][]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][][][][] [] [
+][][][][][][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--29
+
+ []
+
+)) 
 AED: lastpage setting LastPage
+File: af_logo.png Graphic file (type QTm)
+<use  "af_logo.png" >
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 60.50491pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 8.39996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[32]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 51.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 51.
-(out/asdoc/main.aux)
+ (out/asdoc/main.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 51.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 51.
 
@@ -2599,12 +2768,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 49599 strings out of 495579
- 987210 string characters out of 6187322
- 1318182 words of memory out of 5000000
- 52073 multiletter control sequences out of 15000+600000
- 7007 words of font info for 49 fonts, out of 8000000 for 9000
+ 49618 strings out of 495579
+ 987505 string characters out of 6187322
+ 1318247 words of memory out of 5000000
+ 52084 multiletter control sequences out of 15000+600000
+ 7015 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  68i,16n,105p,10372b,1286s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on out/asdoc/main.pdf (27 pages).
+Output written on out/asdoc/main.pdf (32 pages).

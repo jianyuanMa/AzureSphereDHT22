@@ -1,0 +1,26 @@
+This tutorial is just a startup guide about the Azure Sphere device, Azure Security Services and the IOT. To have a complete demo 
+about the Azure Sphere, there are still a lot of work to be done and some questions need to be solved.
+
+\subsection{Remain Questions}
+\begin{enumerate}
+    \item The device was claimed under Jianyuan Ma's ÅF account, in the ÅF directory, because there is a tenant named "AFTechnology". 
+          Please reference to the \ref{sec:install}. We have figure out how to create the tenant under directory "af sphere" and claim 
+          a new device.
+    \item The temperature reading is not read by the Azure Sphere device but the Arduino, due to the GPIO pins on Azure Sphere can not 
+          change the mode after they have been opened and occupied. Jianyuan Ma did not find the best solution to operate the AM2302 
+          sensor by Azure Sphere. 
+\end{enumerate}
+
+\subsection{Remain Works}
+\begin{enumerate}
+    \item Create an IoT service for the sensor reading from Azure Sphere.
+    \item Setup a message routing in the IoT hub to receive the messages from Azure Sphere. The message routing can be found under the 
+          IoT hub created in the \ref{subsec:Step1}. You may need to scroll down a little bit. The tutorial on how to create the messages
+          routing can be found in \href{https://docs.microsoft.com/en-us/azure/iot-hub/tutorial-routing}{Configure message routing with IoT Hub}, 
+          you may need to create a Service Bus Queue also, which can be found in \href{https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-get-started-with-queues}{Get started with Service Bus queues}
+    \item Create a web application to display the sensor messages into a diagram.
+    \item Further studies on Azure Sphere, such as the \href{https://docs.microsoft.com/en-us/azure-sphere/deployment/deployment-overview}{Over-the-Air Deployment} and 
+          other resources in the Azure Portal.
+    \item The \href{http://wiki.seeedstudio.com/Azure_Sphere_MT3620_Development_Kit/}{Azure Sphere MT3620 Development Kit} might be a 
+          very helpful to understand the Azure Sphere device, IoT hub, OTA application and Security Services.
+\end{enumerate}

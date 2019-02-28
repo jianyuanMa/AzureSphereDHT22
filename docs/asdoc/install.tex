@@ -110,6 +110,21 @@ Before you can configure Wi-Fi, you must:
     \item Update the OS
     \item Claim the device
 \end{itemize}
+
+The ÅF network might be difficult to get the Internet connection, since it requires username and password through a browser which the Azure Sphere 
+cannot achieve that. One of the solutions, is to turn your laptop into a WiFi router. 
+\begin{enumerate}
+    \item Press Win+I to open the System Settings.
+    \item Click on \textbf{Network \& Internet}.
+    \item Select \textbf{Mobile Hotspot} on the left panel.
+    \item Turn on the \textbf{Share my Internet connection with other devices}.
+    \item Then click on \textbf{Edit} to set a new network name and password. 
+    \begin{figure}[h]
+        \includegraphics[scale=0.5]{PCtoRouter.JPG}
+    \end{figure}
+    \item Save the settings.
+\end{enumerate}
+
 Follow these steps to configure Wi-Fi on your Azure Sphere device:
 \begin{enumerate}
     \item Connect your Azure Sphere board to your PC over USB.

@@ -311,17 +311,13 @@ zlibraryfadings.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code
 .tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarytrees.code.tex) (asdoc/config.tex)
-No file main.aux.
+zlibrarytrees.code.tex) (asdoc/config.tex) (out/asdoc/main.aux)
 (/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-
+(out/asdoc/main.out) (out/asdoc/main.out)
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-english.trsl)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
@@ -336,16 +332,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 49.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def)
-[1] <use  "af_logo.png" >
+[1] (out/asdoc/main.toc <use  "af_logo.png" >
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 60.50491pt.
@@ -353,15 +346,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 49.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] (asdoc/content.tex (asdoc/intro.tex) <use  "af_logo.png" >
+[2]) <use  "af_logo.png" >
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 60.50491pt.
@@ -369,31 +359,26 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 3.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3] (asdoc/prerequisites.tex) <use  "af_logo.png" >
+[3] (asdoc/content.tex (asdoc/intro.tex <use  "HWDiagram.JPG" >
+Overfull \hbox (56.43234pt too wide) in paragraph at lines 31--32
+[][] 
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 60.50491pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 7.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Package Fancyhdr Warning: \footskip is too small (0.0pt): 
- Make it at least 8.39996pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+Underfull \hbox (badness 3557) in paragraph at lines 39--40
+[]\EU1/Verdana(0)/m/n/9 1 * ARM Cortex A7 core
 
-[4] (asdoc/install.tex <use  "COMPorts.JPG" > <use  "SDK1.JPG" >
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+[]\EU1/Verdana(0)/m/n/9 ARM Cortex M4 core
+
+Overfull \hbox (45.10184pt too wide) in paragraph at lines 34--72
+[][] 
 <use  "af_logo.png" >
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -402,7 +387,19 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 20.
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 8.39996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4]
+Overfull \vbox (28.92296pt too high) has occurred while \output is active
+<use  "af_logo.png" >
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 60.50491pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -410,7 +407,47 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5] <use  "SDK2.JPG" >
+[5] <use  "InterfaceHeaders.JPG" >) <use  "af_logo.png" >
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 60.50491pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 8.39996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6] (asdoc/prerequisites.tex) <use  "af_logo.png" >
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 60.50491pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 8.39996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7] (asdoc/install.tex <use  "COMPorts.JPG" > <use  "SDK1.JPG" >
+<use  "af_logo.png" >
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 60.50491pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 8.39996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8] <use  "SDK2.JPG" >
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd)
@@ -422,15 +459,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 64.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6]
+[9]
 
 LaTeX Font Warning: Font shape `EU1/Verdana(0)/m/sc' undefined
 (Font)              using `EU1/Verdana(0)/m/n' instead on input line 84.
@@ -456,41 +490,40 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 104.
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 8.39996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
+[10] <use  "PCtoRouter.JPG" > <use  "af_logo.png" >
+
+ This may cause the page layout to be inconsistent, however.
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[7]) <use  "af_logo.png" >
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 60.50491pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 11.
-
-
-Package Fancyhdr Warning: \footskip is too small (0.0pt): 
- Make it at least 8.39996pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
+<<<<<<< HEAD
 [8] (asdoc/simple_app.tex
 
 LaTeX Warning: Reference `sec:install' on page 9 undefined on input line 7.
 
 
+
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 8.39996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[12] (asdoc/simple_app.tex
+>>>>>>> 7a1eba2... Add document about the Azure Sphere tutorial.
 Overfull \hbox (121.86627pt too wide) in paragraph at lines 26--27
 [][][][] 
 
 Overfull \hbox (121.86627pt too wide) in paragraph at lines 29--30
 [][][][] 
-
 Overfull \hbox (121.86627pt too wide) in paragraph at lines 39--40
 [][][][] 
 <use  "af_logo.png" >
@@ -501,25 +534,18 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 53.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9] <use  "VSDebug.JPG" >
+[13] <use  "VSDebug.JPG" >
 Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
 
 Overfull \hbox (25.00003pt too wide) in paragraph at lines 65--65
 [][] 
-<use  "BlinkDebugAuto.JPG" >
-
-LaTeX Warning: Reference `sec:install' on page 10 undefined on input line 86.
-
-<use  "af_logo.png" >
+<use  "BlinkDebugAuto.JPG" > <use  "af_logo.png" >
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 60.50491pt.
@@ -527,29 +553,19 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 99.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10]
+[14]
 Overfull \hbox (82.4661pt too wide) in paragraph at lines 117--118
 [][] 
 
-Overfull \hbox (82.4661pt too wide) in paragraph at lines 124--125
-[][] 
-<use  "af_logo.png" >
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 60.50491pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 156.
 
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -557,7 +573,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11]
+[15]
 Overfull \hbox (121.86627pt too wide) in paragraph at lines 167--168
 [][] 
 
@@ -571,15 +587,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 16.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12] (asdoc/azure_iot.tex <use  "CreateIoTHub1.JPG" > <use  "af_logo.png" >
+[16] (asdoc/azure_iot.tex <use  "CreateIoTHub1.JPG" > <use  "af_logo.png" >
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 60.50491pt.
@@ -587,15 +600,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 27.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13] <use  "CreateIoTHub2.JPG" > <use  "CreateIoTHub3.JPG" >
+[17] <use  "CreateIoTHub2.JPG" > <use  "CreateIoTHub3.JPG" >
 <use  "af_logo.png" >
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -604,15 +614,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 51.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14] <use  "DeviceProvisioningService.JPG" > <use  "LinkIoT.JPG" >
+[18] <use  "DeviceProvisioningService.JPG" > <use  "LinkIoT.JPG" >
 <use  "af_logo.png" >
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -621,20 +628,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 95.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15]
-
-LaTeX Warning: Reference `subsec:Step1' on page 16 undefined on input line 113.
-
-
-<use  "DPSCert.JPG" > <use  "af_logo.png" >
+[19] <use  "DPSCert.JPG" > <use  "af_logo.png" >
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 60.50491pt.
@@ -642,15 +641,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 119.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16] <use  "DPSAddCert.JPG" > <use  "DSPCertUnVer.JPG" >
+[20] <use  "DPSAddCert.JPG" > <use  "DSPCertUnVer.JPG" >
 <use  "CertificatDetails.JPG" > <use  "af_logo.png" >
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -659,15 +655,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 147.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17] <use  "af_logo.png" >
+[21] <use  "af_logo.png" >
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 60.50491pt.
@@ -675,15 +668,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 149.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18] <use  "EnrollmentGroup.JPG" > <use  "af_logo.png" >
+[22] <use  "EnrollmentGroup.JPG" > <use  "af_logo.png" >
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 60.50491pt.
@@ -691,15 +681,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 186.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[19] <use  "VSAddConnectService.jpg" > <use  "AddConServiecPan.JPG" >
+[23] <use  "VSAddConnectService.jpg" > <use  "AddConServiecPan.JPG" >
 <use  "CreateDiveConIoT.JPG" > <use  "IoTSolutionExplorer.JPG" >
 Overfull \hbox (8.18585pt too wide) in paragraph at lines 203--208
 []\EU1/Verdana(0)/m/sc/9 In Solution Explorer, you should now see azure_iot_uti
@@ -715,15 +702,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 20 undefined on input line 213.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20] <use  "ASIoTOutput.JPG" > <use  "SelectIoTDevice.JPG" >
+[24] <use  "ASIoTOutput.JPG" > <use  "SelectIoTDevice.JPG" >
 <use  "af_logo.png" >
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -732,15 +716,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 21 undefined on input line 235.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[21] <use  "MsgToDevice.JPG" > <use  "DirectMethod.JPG" >
+[25] <use  "MsgToDevice.JPG" > <use  "DirectMethod.JPG" >
 <use  "af_logo.png" >
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -749,15 +730,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 22 undefined on input line 265.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[22] <use  "DeviceTwin.JPG" >) <use  "af_logo.png" >
+[26] <use  "DeviceTwin.JPG" >) <use  "af_logo.png" >
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 60.50491pt.
@@ -765,19 +743,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 23 undefined on input line 20.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[23] (asdoc/azure_am2302.tex
-
-LaTeX Warning: Reference `sec:sim_app' on page 24 undefined on input line 6.
-
-<use  "AStoAD.jpg" > <use  "ADtoAM2302.jpg" >
+[27] (asdoc/azure_am2302.tex <use  "AStoAD.jpg" > <use  "ADtoAM2302.jpg" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -789,15 +760,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 24 undefined on input line 41.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[24] <use  "DHTLibary.JPG" > <use  "AdafruitUnifiedSensor.JPG" >
+[28] <use  "DHTLibary.JPG" > <use  "AdafruitUnifiedSensor.JPG" >
 <use  "af_logo.png" >
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -806,15 +774,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 25 undefined on input line 63.
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 8.39996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
+[29] <use  "UploadBTArduino.JPG" >) <use  "af_logo.png" >
+
+ This may cause the page layout to be inconsistent, however.
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[25] <use  "UploadBTArduino.JPG" >) (asdoc/future.tex) <use  "af_logo.png" >
+[30] (asdoc/future.tex) <use  "af_logo.png" >
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 60.50491pt.
@@ -822,7 +796,60 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 26 undefined on input line 27.
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 8.39996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[31] (asdoc/references.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+[]|[][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][] [] [][][] [] [][][][
+][][] [] [][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]|[][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][] [] [][][] [] [][][][
+][][] [] [][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]|[][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][] [] [][][] [] [][][][
+][][] [] [][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]|[][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][] [] [][][] [] [][][][
+][][] [] [][][][][] [] [][][][][][][][] []
+
+Underfull \hbox (badness 6300) in paragraph at lines 12--12
+[]|\EU1/Verdana(0)/m/sc/9 Azure IoT with Azure
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+[]|[][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][] [] [][][] [] [][][][
+][][] [] [][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+[]|[][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][] [] [][][] [] [][][][
+][][] [] [][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\EU1/Verdana(0)/m/sc/9 Hardware Design and
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+[]|[][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][] [] [][][] [] [][][][
+][][] [] [][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+[]|[][]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][][][][] [] [
+][][][][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--29
+
+)) 
+AED: lastpage setting LastPage
+<use  "af_logo.png" >
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 60.50491pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -830,23 +857,14 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[26])
-
-Package lastpage Warning: Rerun to get the references right on input line 51.
-
-
-AED: lastpage setting LastPage
-(out/asdoc/main.aux)
+[32] (out/asdoc/main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  )
 (see the transcript file for additional information)
-Output written on out/asdoc/main.pdf (26 pages).
+Output written on out/asdoc/main.pdf (32 pages).
 Transcript written on out/asdoc/main.log.
