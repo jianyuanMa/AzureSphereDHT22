@@ -1,0 +1,51 @@
+\documentclass[a4paper]{article}
+\usepackage{af}
+
+\usepackage{xparse}
+\usepackage{multirow}
+\usepackage{longtable}
+\usepackage{tikz}
+\usepackage{tikz-qtree}
+\usepackage{pbox}
+\newlength\myheight
+\newlength\mydepth
+\settototalheight\myheight{Xygp}
+\settodepth\mydepth{Xygp}
+\setlength\fboxsep{0pt}
+\newcommand*\inlinegraphics[1]{%
+  \settototalheight\myheight{Xygp}%
+  \settodepth\mydepth{Xygp}%
+  \raisebox{-\mydepth}{\includegraphics[height=\myheight]{#1}}%
+}
+\usepackage[most]{tcolorbox}
+\tcbset{
+    frame code={}
+    center title,
+    left=0pt,
+    right=0pt,
+    top=0pt,
+    bottom=0pt,
+    colback=blue!26,
+    colframe=white,
+    width=\dimexpr\textwidth\relax,
+    enlarge left by=0mm,
+    boxsep=5pt,
+    arc=0pt,outer arc=0pt,
+}
+\usetikzlibrary{arrows,shapes,positioning,shadows,trees}
+
+
+%%
+% Document structure, use \input for document content
+%%
+
+\input{config}
+
+
+% Change to correct values according to project
+
+\newcommand{\titleCommand}      {Software Design Description}
+
+\begin{document}
+\input{content}
+\end{document}
